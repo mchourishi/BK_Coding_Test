@@ -100,13 +100,13 @@ class App extends Component {
     return (
       <div className="App">
         {/* <pre>{JSON.stringify(this.state)}</pre> */}
+        <h1>Image Uploader</h1>
         <input type="file" onChange={this.fileSelected}></input>
         <button className = "button" onClick={this.fileUploaded}>Upload Image</button>
         <div>
           {$imageElement}
         </div>
         <div><canvas id="canvas" ref="canvas" width="500" height="200"></canvas></div>
-
       </div>
     );
   }

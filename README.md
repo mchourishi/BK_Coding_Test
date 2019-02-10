@@ -10,7 +10,7 @@ $ git clone https://github.com/mchourishi/BK_Coding_Test.git
 Change Directory to frontend
 ```bash
 $ cd frontend
-
+```
 Install dependencies . Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system and you are in frontend
 ```bash
 $ npm install # or yarn

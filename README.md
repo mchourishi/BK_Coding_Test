@@ -2,7 +2,7 @@
 
 This is coding challenge from "Bruel and Kjaer" and it includes a Backend and Frontend Test.
 
-##Instructions
+## Instructions
 First clone this repository.
 ```bash
 $ git clone https://github.com/mchourishi/BK_Coding_Test.git
@@ -29,15 +29,15 @@ it also asks for address and validates the address with the Google Maps API.If e
 
 ## Screenshot : Backend
 
-<img src="https://github.com/mchourishi/react-todo/blob/master/public/screenshots/add_todo.png" />
+<img src="https://github.com/mchourishi/BK_Coding_Test/blob/master/screenshots/backend-php-cli.png" />
 
-##Introduction : Frontend
+## Introduction : Frontend
 The frontend is a single page react file uploader script.
 It asks for a image to be uploaded in a valid format.
 Once uploaded, will show the image in a thumbnail and will also show the mirrored image of the original image.
 All the frontend stuff is in the `frontend` directory.
 
-##Instructions : Frontend
+## Instructions : Frontend
 1. cd to frontend
 2. Run it ```bash $ npm start # or yarn start```
 3. Upload image in a valid format.
@@ -46,8 +46,8 @@ All the frontend stuff is in the `frontend` directory.
 5. Once uploaded will show the uploaded image in a thumbnail.
 5. And a horizontal mirrored image under the thumbnail.
 
-##Screenshot : Frontend
+## Screenshot : Frontend
 
-<img src="https://github.com/mchourishi/react-todo/blob/master/public/screenshots/add_todo.png" />
+<img src="https://github.com/mchourishi/BK_Coding_Test/blob/master/screenshots/frontend-thumbnail-mirrorimage.png" />
 
 
